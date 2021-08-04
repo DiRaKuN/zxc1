@@ -1,4 +1,12 @@
-my_list = [1, 2, 3, 4, 5]
+word1 = 'Hello'
+word2 = 'World'
+print(word1 + word2)
 
-for i in my_list:
-	print(i)
+text = ''
+size = min(len(word1), len(word2))
+for k in range(size):
+	#print(word1[k]) + word2[-k-1]
+	#print(-k-1)
+	text += word1[k] + word2 [-k-1]
+
+print(text)
