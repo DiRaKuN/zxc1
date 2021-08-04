@@ -29,19 +29,5 @@ word1 = 'Hello'
 word2 = 'World'
 print(word1 + word2)
 
-text = ''
-size = min(len(word1), len(word2))
-for k in range(size):
-	#print(word1[k]) + word2[-k-1]
-	#print(-k-1)
-	text += word1[k] + word2 [-k-1]
+fdsdaasfasdfsafcxvcxvzxvxczvzxcv
 
-print(text)
-
-fds
-for sdf
-sdf
-sdf
-sdf
-sd in xrange(1,10):
-	pass
